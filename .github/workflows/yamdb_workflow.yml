@@ -49,7 +49,7 @@ jobs:
         with:
           context: ./api_yamdb
           push: true
-          tags: zudilenkovmaxim/yamdb_final:latest
+          tags: VladimirKobenyakov/yamdb_final:latest
 
   deploy:
     runs-on: ubuntu-latest
