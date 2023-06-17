@@ -51,6 +51,7 @@ jobs:
           push: true
           tags: vladkob/yamdb_final:latest
 
+
   deploy:
     runs-on: ubuntu-latest
     needs: build_and_push_to_docker_hub
