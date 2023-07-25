@@ -7,7 +7,7 @@ services:
     env_file:
       - ./.env
   web:
-    image: zudilenkovmaxim/yamdb:latest
+    image: vladkob/yamdb:latest
 
     restart: always
     volumes:
