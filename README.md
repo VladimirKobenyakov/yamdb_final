@@ -1,8 +1,5 @@
 [![Django-app workflow](https://github.com/VladimirKobenyakov/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/VladimirKobenyakov/yamdb_final/actions/workflows/yamdb_workflow.yml)
 
-![examp workflow](https://github.com/VladimirKobenyakov/yamdb_final/actions/workflows/main.yml/badge.svg)
-
-
 # Учебный проект yamdb_final
 # Автор - Владимир Кобеняков
 
