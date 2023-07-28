@@ -66,6 +66,7 @@ jobs:
             sudo docker-compose stop
             sudo docker-compose rm web
             touch .env
+            sudo truncate -s 0 .env
             echo DB_ENGINE=django.db.backends.postgresql >> .env
             echo DB_NAME=postgres >> .env
             echo POSTGRES_USER=postgres >> .env
