@@ -8,7 +8,6 @@ services:
     env_file:
       - ./.env
 
-
   web:
     image: vladkob/yamdb_final:latest
     restart: always

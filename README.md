@@ -47,3 +47,6 @@ docker-compose exec web python manage.py collectstatic --no-input
 http://localhost/api/v1/auth/token/
 http://localhost/api/v1/auth/signup/
 http://localhost/api/v1/users/
+
+# Ссылка на развернутый проект:
+http://84.201.143.223/api/v1/
